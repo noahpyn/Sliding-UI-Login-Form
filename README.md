@@ -1,2 +1,2 @@
-# Login-Form
-React JS Login Forum using bootstrap 
+# Sliding Login & Registration Form
+
