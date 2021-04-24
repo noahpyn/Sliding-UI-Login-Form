@@ -4,5 +4,5 @@ A responsive sliding UI Login & Registration form Design. Created using HTML5, C
 
 Live Demo: https://codepen.io/noahpyn/full/ExZryMe
 
-https://media.giphy.com/media/swOXtOXB6zeJXnDOio/giphy.gif
+![Animated GIF-downsized](https://user-images.githubusercontent.com/75100642/115969012-ab8ca080-a532-11eb-97b9-6eec93633dcf.gif)
 
